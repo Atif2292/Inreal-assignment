@@ -74,7 +74,7 @@ npm start
 ## Live Links
 
 - **Frontend:** [inreal-assign.netlify.app]  
-- **Backend API:** [your_backend_api_url_here]  
+- **Backend API:** [https://dummy-2-7njc.onrender.com/]  
 - **GitHub Repo:** [(https://github.com/Atif2292/Inreal-assignment/)]
 
 ---
